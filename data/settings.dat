@@ -1,0 +1,6 @@
+CurrentTable: English;
+AskForDeletion: true;
+ShowStartreport: true;
+StatisticMode: Abfragebezogen;
+InterrogationMode: Zufaellig;
+InterrogationValues: Ausstehende;
